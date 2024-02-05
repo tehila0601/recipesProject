@@ -1,0 +1,51 @@
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\106\Desktop\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\106\Desktop\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\106\Desktop\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\106\Desktop\c#\recipes\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\106\Desktop\c#\recipes\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\106\Desktop\c#\recipes\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\106\Desktop\c#\recipes\DataContext\obj\Debug\net6.0\ref\DataContext.dll
